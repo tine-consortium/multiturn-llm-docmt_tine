@@ -1,3 +1,10 @@
+## Evaluation Results
+
+The evaluation results for different models, translation settings, and language pairs are available here:
+
+[Evaluation Results (Google Sheets)](https://docs.google.com/spreadsheets/d/1zSOddW437eWKIrgNBdzlZYsV2OtShQTz1MBvjK_zNso/edit?usp=sharing)
+
+
 # Document Translation Experiments
 
 This repository extends [Source-primed Multi-turn Conversation Helps Large Language Models Translate Documents](https://arxiv.org/abs/2503.10494) with open-weight model experiments, translation launchers, and document-level evaluation workflows.
